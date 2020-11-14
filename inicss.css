@@ -1,0 +1,21 @@
+.pertama{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightskyblue;
+    border-collapse: collapse;
+    width: 100%;
+    border: 2;
+    margin: 10px auto solid #aaaaaa;
+    padding: 5px 15px ;
+    margin: 10px auto;
+    font-weight: normal;
+    background-color: ivory;
+    
+}
+
+
+
+.ketiga{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 15px; 
+}
+
